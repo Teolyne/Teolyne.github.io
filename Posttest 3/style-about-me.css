@@ -12,6 +12,7 @@ body {
     background-image: url(bg\ biodata.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    overflow-x: hidden;
 }
 
 .fContainer {
