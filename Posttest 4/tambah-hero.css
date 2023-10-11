@@ -213,25 +213,25 @@ body.light .active {
     backdrop-filter: blur(4px);
     color: whitesmoke;
     font-size: 1.5em;
-    padding: 20px; /* Tambahkan ruang padding untuk konten di dalamnya */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Tambahkan bayangan untuk efek elevasi */
-    text-align: center; /* Teks menjadi pusat */
+    padding: 20px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    text-align: center; 
 }
 
 .tambah p {
-    font-size: 1.8em; /* Ukuran font judul */
-    margin-bottom: 20px; /* Ruang bawah dari judul */
+    font-size: 1.8em; 
+    margin-bottom: 20px; 
 }
 
 .tambah input[type="text"],
 .tambah input[type="submit"],
 .tambah input[type="number"] {
     width: 300px;
-    margin: 10px 0; /* Tambahkan jarak antara elemen input */
-    padding: 10px; /* Tambahkan ruang padding */
-    border: none; /* Hapus border */
-    background-color: rgba(255, 255, 255, 0.2); /* Latar belakang semi-transparan */
-    border-radius: 5px; /* Tambahkan sudut bulat */
+    margin: 10px 0; 
+    padding: 10px; 
+    border: none; 
+    background-color: rgba(255, 255, 255, 0.2); 
+    border-radius: 5px; 
     color: whitesmoke;
 }
 
@@ -241,7 +241,7 @@ input::-webkit-inner-spin-button {
 }
 
 .tambah input[type="radio"] {
-    margin-right: 5px; /* Tambahkan jarak antara tombol radio */
+    margin-right: 5px;
 }
 
 .tambah input[type="submit"] {
@@ -252,7 +252,7 @@ input::-webkit-inner-spin-button {
 }
 
 .tambah input[type="submit"]:hover {
-    background-color: #007D80; /* Warna latar belakang saat hover */
+    background-color: #007D80;
 }
 
 .left {
