@@ -254,7 +254,6 @@ body.light .active {
 }
 
 @media screen and (max-width: 768px) {
-    /* CSS untuk layar dengan lebar maksimum 768px (mode mobile) */
     .fContainer {
         height: auto;
     }
