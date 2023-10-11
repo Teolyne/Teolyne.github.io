@@ -43,7 +43,7 @@
                 <input type="number" name="colo" step="any" required><br>
                 <label for="" class="left">Rating Raid : </label>
                 <input type="number" name="raid" step="any" required><br>
-                <input type="submit" value="submit" name="submit">
+                <input type="submit" value="SUBMIT" name="submit">
             </form>
 
         </div>
